@@ -17,7 +17,7 @@ Welcome to my GitHub project! In this repository, I've created a fun and interac
 ## 📂 Project Structure
 
 ```
-📦 My Cool Project
+📦 rotating-navigation
 ├── 📜 index.html
 ├── 📜 styles.css
 └── 📜 script.js
@@ -31,11 +31,11 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/my-cool-project.git
+    git clone git@github.com:good-gis/rotating-navigation.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd my-cool-project
+    cd rotating-navigation
     ```
 
 ### ▶️ Usage
@@ -46,6 +46,6 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 ---
 
-✨ Made with ❤️ by [good-gis](https://github.com/good-gis) ✨
+✨ Made with ❤️ by [good-gis](https://github.com/good-gis/) ✨
 
 ---
